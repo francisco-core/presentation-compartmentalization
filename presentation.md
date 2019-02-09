@@ -122,8 +122,16 @@ E.g. Personal, Work, Banking, etc.
 # Firefox Containers    -   Demo
 
 <!--- At this point, you stop the slides presentation and show a demo on how people can have various account on the same browser logged in at the same time ---->
-![center 70%](images/firefox-containers-transparent.png) 
+![center 60%](images/firefox-containers-transparent.png)
 
+> **warning:** firefox contaniers helps you privacy-wise in the sense that it allows you to manage various accounts at the same time. It **does not** protect against fingerprinting.
+> For that, you should be using *Tor Borwser*
+
+---
+
+# Torbrowser - Demo
+# ![center](images/tor-browser.png)
+To switch identities you press the onion button in top left corner and it will restart your browser.
 
 ---
 
@@ -135,7 +143,7 @@ Not all eggs deserve a basket
 |:---------------------------:|:-:|
 | bugmenot.com |login2.me|
 #
-> **Tip:** Only login when you really need to
+> **Tip:** Only login with an account of yours when you really need to
 
 ---
 
