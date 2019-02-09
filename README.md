@@ -1,7 +1,7 @@
 # Compartmentalization
 
 -----
-<center>How we can dived our digital life, to increase privacy</center>
+<center>How we can divide our digital life, to increase privacy</center>
 
 ----
 ![First Slide](https://raw.githubusercontent.com/francisco-core/presentation-compartmentalization/master/images/first-slide.png)
