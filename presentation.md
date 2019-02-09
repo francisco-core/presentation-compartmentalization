@@ -1,6 +1,6 @@
 <!-- $size: 16:9 -->
 <!-- page_number: false -->
-<!--<span style="float:right;"> ![120% image eggs1 basket](images/one-egg-in-each-basket.png)</span>-->
+<span style="float:right;"> ![120% image eggs1 basket](images/one-egg-in-each-basket.png)</span>
 
 #
 #
