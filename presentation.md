@@ -20,6 +20,29 @@
 <span style="float:left;">[![120%](images/cc-by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)</span>
 <!-- Creative Commons Attribution-ShareAlike -->
 
+---
+#
+#
+#
+#
+#
+
+# <center>Sharing is Caring </center>
+*<center>Please copy, share, and remix!</center>*
+#
+#
+<center> grab a copy of the presentation: 
+  
+[github.com/francisco-core/presentation-compartmentalization](https://github.com/francisco-core/presentation-compartmentalization)
+###### The file `presentation.md` includes additional notes
+</center>
+
+
+
+#
+#
+<span style="float:left;">[![120%](images/cc-by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)</span>
+<!-- Creative Commons Attribution-ShareAlike -->&nbsp;  This presentation is under the Creative Commons Attribution-ShareAlike License
 
 ----
 <!-- page_number: true -->
@@ -120,8 +143,11 @@ E.g. Personal, Work, Banking, etc.
 ---
 
 # Firefox Containers    -   Demo
-
-<!--- At this point, you stop the slides presentation and show a demo on how people can have various account on the same browser logged in at the same time ---->
+<!-- SUGGESTION TO PRESENTER -->
+<!-- At this point, you stop the slides presentation and show a demo on how people can have
+various account on the same browser logged in at the same time. You could also show people how
+they can use the extention for more usefull stuff like hiding all tabs from one identity and
+picking the up later, opening in a container by default, etc ---->
 ![center 60%](images/firefox-containers-transparent.png)
 
 > **warning:** firefox contaniers helps you privacy-wise in the sense that it allows you to manage various accounts at the same time. It **does not** protect against fingerprinting.
@@ -130,6 +156,14 @@ E.g. Personal, Work, Banking, etc.
 ---
 
 # Torbrowser - Demo
+
+<!-- SUGGESTION TO PRESENTER -->
+<!-- Here the tor browser can be shown. Teach people a few bullet points on why it can help with
+protecting their privacy (out of the scope of this presentation, but important for those
+unfamiliar. The demo how people can use a "new identity" - which clears the cookies rebuilds 
+used circuits-->
+
+
 # ![center](images/tor-browser.png)
 To switch identities you press the onion button in top left corner and it will restart your browser.
 
@@ -138,6 +172,10 @@ To switch identities you press the onion button in top left corner and it will r
 # Temporary Accounts
 Not all eggs deserve a basket
 
+<!-- SUGGESTION TO PRESENTER -->
+<!-- Here you can demo how one can login to a website without having to create an account.
+Mention to people that this way it is much faster, works most of the times and they don't need
+to give up personal information -->
 
 |![50%](images/bugmenot.jpeg) | ![](images/login2.me.jpeg)|
 |:---------------------------:|:-:|
@@ -156,7 +194,7 @@ Not all eggs deserve a basket
 <br>
 ## QubesOS
 #
-There will be a workshop
-about it soon (hopefuly)
 
-<!-- do a small qubes demo here -->
+<!-- SUGGESTION TO PRESENTER -->
+<!-- If you are familiar with Qubes, please show the basics of how it works in practice.
+I would suggest taking a look at Micah Lee's presentation: "Qubes OS: The Operating System That Can Protect You Even If You Get Hacked" (https://www.qubes-os.org/video-tours/#micah-lee-presents-qubes-os-the-operating-system-that-can-protec) and doing a 5 minute demo. -->
