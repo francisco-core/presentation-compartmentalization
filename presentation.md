@@ -155,6 +155,20 @@ picking the up later, opening in a container by default, etc ---->
 
 ---
 
+### Ultimate Compartmentalization:
+
+# Anonymity
+
+Efemeral and unconnected compartments
+
+<!-- SUGGESTION TO PRESENTER --> <!-- with torbrowser you navigate
+anonymously. It's as though every website you visited was in its own
+little compartment which gets thown away after you close it. So,
+unless you log into to any services, you actions there will be
+disconnected from any other compartment of yours-->
+
+---
+
 # Torbrowser - Demo
 
 <!-- SUGGESTION TO PRESENTER -->
