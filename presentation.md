@@ -199,6 +199,14 @@ to give up personal information -->
 
 ---
 
+# Tips
+
+what not to do
+
+- create accounts with the same name in different domains
+
+---
+
 # Various Computers
 #
 
